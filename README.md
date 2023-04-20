@@ -8,4 +8,4 @@ Current progress is in *ERCStarting.ipynb*
 
 [ltp](https://github.com/HIT-SCIR/ltp)
 
-[Fasttext](https://fasttext.cc/docs/en/crawl-vectors.html)
+[Tencent AI Lab](https://ai.tencent.com/ailab/nlp/en/embedding.html)
